@@ -15,10 +15,10 @@ patches:
     name: istory-app-deploy
 
   # base/istory-app/istory-app-deploy.yml 내의 이미지 이름과 동일해야 변경됨
-images:
-- name: dangtong76/istory
-  newName: dangtong76/istory
-  newTag: "31"
+#mages:
+# name: dangtong76/istory
+# newName: dangtong76/istory
+# newTag: "31"
 
 generatorOptions:
   disableNameSuffixHash: true
